@@ -3,3 +3,39 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+.banner {
+    background-image: url('/images/banner/banner3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    height: 800px;
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 30px;
+
+}
+
+.primary-button {
+    color: #005FAC;
+    font-weight: 600px;
+    font-size: 20px;
+    padding: 25px 20px;
+    border-radius: 10px;
+}
+
+/* banner styles */
+
+.banner-heading{
+    font-weight: 700px;
+    font-size: 65px;
+    color: white;
+    padding-top: 200px;
+}
+
+.banner-description{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
