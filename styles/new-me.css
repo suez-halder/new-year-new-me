@@ -126,3 +126,49 @@ li {
     padding-bottom: 20px;
 
 }
+
+/* footer styles */
+
+
+.all-footer {
+    display: flex;
+    background-color: #151414;
+    color: #FFFFFF;
+    height: 577px;
+    gap: 330px;
+}
+
+.future-footer {
+    padding-top: 130px;
+    padding-left: 230px;
+
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+.future-description{
+    padding-bottom: 25px;
+    
+}
+.contact-email{
+    padding-bottom: 25px;
+}
+
+.contact-phone{
+    padding-bottom: 25px;
+}
+
+a {
+    
+    text-decoration: none;
+}
+
+.subscribe-footer {
+    padding-top: 130px;
+    padding-right: 230px;
+    align-items: flex-end;
+    width: 100%;
+}
