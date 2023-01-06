@@ -17,9 +17,10 @@
 
 .primary-button {
     color: #005FAC;
+    background-color: white;
     font-weight: 600;
     font-size: 20px;
-    padding: 25px 20px;
+    padding: 20px;
     border-radius: 10px;
 }
 
@@ -100,6 +101,28 @@ li {
     font-size: 30px;
     padding-top: 20px;
     padding-bottom: 15px;
-    
+
 }
 
+/* mindset container styles */
+
+.mindset-container {
+    background-image: url(/images/watch.png), url(/images/gradient1.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-size: cover;
+    margin: 130px 250px;
+    height: 300px;
+    background-blend-mode: overlay;
+    border-radius: 8px;
+}
+
+.mindset-heading {
+    padding: 60px;
+}
+
+.mindset-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+
+}
