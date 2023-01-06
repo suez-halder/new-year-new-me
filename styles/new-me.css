@@ -17,7 +17,7 @@
 
 .primary-button {
     color: #005FAC;
-    font-weight: 600px;
+    font-weight: 600;
     font-size: 20px;
     padding: 25px 20px;
     border-radius: 10px;
@@ -26,7 +26,7 @@
 /* banner styles */
 
 .banner-heading {
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 65px;
     color: white;
     padding-top: 200px;
@@ -39,7 +39,7 @@
 
 }
 
-/* failure section */
+/* failure container styles */
 
 
 .failure-container {
@@ -54,27 +54,52 @@
     font-size: 40px;
     padding-bottom: 25px;
 }
-.failure-description{
+
+.failure-description {
     color: #444343;
     padding-bottom: 20px;
 }
 
-.failure-text{
+.failure-text {
     padding-left: 100px;
 }
 
 ul {
     list-style: none;
-  }
-  
-  ul li:before {
+}
+
+ul li:before {
     content: '✓';
     color: #16D887;
     padding-right: 10px;
     margin-left: -40px;
-  }
+}
 
-  li{
+li {
     padding-bottom: 10px;
     color: #444343;
-  }
+}
+
+/* plan container styles */
+
+.all-plan {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 230px;
+    text-align: center;
+}
+
+.plan-heading {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+}
+
