@@ -12,7 +12,6 @@
     text-align: right;
     padding-right: 100px;
     padding-top: 30px;
-
 }
 
 .primary-button {
@@ -25,7 +24,6 @@
 }
 
 /* banner styles */
-
 .banner-heading {
     font-weight: 700;
     font-size: 65px;
@@ -37,17 +35,13 @@
     color: white;
     padding-top: 30px;
     padding-bottom: 30px;
-
 }
 
 /* failure container styles */
-
-
 .failure-container {
     display: flex;
     margin: 130px 250px;
     align-items: center;
-
 }
 
 .failure-title {
@@ -83,7 +77,6 @@ li {
 }
 
 /* plan container styles */
-
 .all-plan {
     display: flex;
     justify-content: space-around;
@@ -102,20 +95,17 @@ li {
     font-size: 30px;
     padding-top: 20px;
     padding-bottom: 15px;
-
 }
 
 /* pricing container styles */
-
 .price-button {
     color: white;
-    background-color:#151414;
+    background-color: #151414;
     font-weight: 600;
     font-size: 20px;
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
-
 }
 
 .pricing-container {
@@ -128,20 +118,18 @@ li {
     font-size: 50px;
     padding-bottom: 10px;
 }
-.pricing-heading .sub-title{
+
+.pricing-heading .sub-title {
     padding-bottom: 50px;
     font-size: 25px;
-    
 }
-
 
 .pricing-items {
     display: flex;
     justify-content: space-evenly;
-    
 }
 
-.price-box{
+.price-box {
     border: 1px solid #005FAC;
     padding: 50px;
     background-color: #6C63FF;
@@ -149,17 +137,17 @@ li {
     border-radius: 8px;
 }
 
-.item-1{
+.item-1 {
     padding-bottom: 20px;
 }
 
-.item-2{
+.item-2 {
     font-weight: 700;
     font-size: 30px;
     padding-bottom: 20px;
 }
 
-.item-3{
+.item-3 {
     font-weight: 700;
     font-size: 50px;
     padding-bottom: 20px;
@@ -167,7 +155,6 @@ li {
 }
 
 /* mindset container styles */
-
 .mindset-container {
     background-image: url("../images/watch.png"), url("../images/gradient1.png");
     background-size: cover;
@@ -186,11 +173,9 @@ li {
     font-size: 40px;
     color: #FFFFFF;
     padding-bottom: 20px;
-
 }
 
 /* footer styles */
-
 /* future footer styles */
 
 .all-footer {
@@ -228,15 +213,11 @@ li {
 }
 
 a {
-
     text-decoration: none;
     padding-right: 10px;
-
-
 }
 
 /* subscribe footer styles */
-
 .subscribe-footer {
     padding-top: 130px;
 }
@@ -253,8 +234,6 @@ a {
     border: 1px solid white;
     font-size: 18px;
     padding: 20px;
-
-
 }
 
 .subscribe-button {
@@ -265,5 +244,4 @@ a {
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
-
 }
