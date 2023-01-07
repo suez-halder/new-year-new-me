@@ -4,7 +4,7 @@
 }
 
 .banner {
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('./images/banner/banner3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: aqua;
@@ -107,7 +107,7 @@ li {
 /* mindset container styles */
 
 .mindset-container {
-    background-image: url(/images/watch.png), url(/images/gradient1.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-image: url(./images/watch.png), url(/images/gradient1.png), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
     background-size: cover;
     margin: 130px 250px;
     height: 300px;
