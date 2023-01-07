@@ -63,6 +63,7 @@
 
 .failure-text {
     padding-left: 100px;
+    width: auto;
 }
 
 ul {
@@ -102,6 +103,67 @@ li {
     padding-top: 20px;
     padding-bottom: 15px;
 
+}
+
+/* pricing container styles */
+
+.price-button {
+    color: white;
+    background-color:#151414;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+
+.pricing-container {
+    margin: 130px 230px;
+    text-align: center;
+}
+
+.pricing-heading .title {
+    font-weight: 700;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.pricing-heading .sub-title{
+    padding-bottom: 50px;
+    font-size: 25px;
+    
+}
+
+
+.pricing-items {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.price-box{
+    border: 1px solid #005FAC;
+    padding: 50px;
+    background-color: #6C63FF;
+    color: white;
+    border-radius: 8px;
+}
+
+.item-1{
+    padding-bottom: 20px;
+}
+
+.item-2{
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.item-3{
+    font-weight: 700;
+    font-size: 50px;
+    padding-bottom: 20px;
+    color: rgb(164, 226, 253);
 }
 
 /* mindset container styles */
@@ -185,7 +247,7 @@ a {
     padding-bottom: 30px;
 }
 
-.email{
+.email {
     background-color: #151414;
     border-radius: 8px;
     border: 1px solid white;
@@ -195,7 +257,7 @@ a {
 
 }
 
-.subscribe-button{
+.subscribe-button {
     color: white;
     background-color: #005FAC;
     font-weight: 600;
