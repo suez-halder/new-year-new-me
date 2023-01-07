@@ -137,20 +137,12 @@ li {
     color: #FFFFFF;
     height: 577px;
     gap: 330px;
-
 }
 
 .future-footer {
-    border: 4px solid white;
-    /* justify-content: right; */
-    width: 485px;
     height: 317px;
     margin-top: 130px;
     margin-left: 230px;
-    margin-right: 200px;
-    text-align: center;
-    
-
 }
 
 .future-title {
@@ -160,7 +152,8 @@ li {
 }
 
 .future-description {
-    
+    width: 485px;
+    padding-bottom: 25px;
 
 }
 
@@ -175,15 +168,14 @@ li {
 a {
 
     text-decoration: none;
+    padding-right: 10px;
+
 }
 
 /* subscribe footer styles */
 
 .subscribe-footer {
     padding-top: 130px;
-    padding-right: 230px;
-    align-items: flex-end;
-    width: 100%;
 }
 
 .subscribe-title {
