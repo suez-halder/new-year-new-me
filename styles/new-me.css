@@ -40,7 +40,7 @@
 /* failure container styles */
 .failure-container {
     display: flex;
-    margin: 130px 250px;
+    margin: 130px;
     align-items: center;
 }
 
